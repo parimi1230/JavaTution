@@ -1,0 +1,16 @@
+public class IfStatementDemo {
+
+    public static void main(String[] args) {
+
+        // < - less than
+        // > - greater than
+        // == - equals
+        // <= - less than or equal to
+        // >= - greater than or equal to
+        if(Integer.parseInt(args[0]) > 10 ){
+            System.out.println("Value enetered is greater than 10");
+        }
+
+    }
+
+}
